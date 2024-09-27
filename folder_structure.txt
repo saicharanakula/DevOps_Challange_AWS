@@ -1,0 +1,11 @@
+├── bin/
+│   └── my-serverless-app.ts         // Entry point for the CDK app
+├── lib/
+│   ├── my-serverless-stack.ts       // Wrapper for the construct
+│   └── serverless-construct.ts      // CDK Construct code
+├── lambda/
+│   └── index.js                     // Lambda handler code
+├── cdk.json
+├── package.json
+├── README.md                        // Documentation
+└── tsconfig.json

@@ -1,0 +1,5 @@
+I will build a construct that deploys key AWS services such as API Gateway, Lambda, DynamoDB, and IAM roles. 
+The construct will include an API Gateway integrated with Lambda functions, which interact with a DynamoDB table for data storage. IAM roles will be set up to ensure proper permissions. 
+I  will wrap the construct inside a CDK stack and deploy it using cdk deploy. 
+Testing will be done through the API Gateway endpoint, and documentation should be provided for setup instructions and design choices. 
+I will also ensure the code is pushed to a public GitHub repository, and include a clear README file.
